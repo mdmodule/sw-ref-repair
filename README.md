@@ -1,6 +1,6 @@
 # SolidWorks 工程图引用极速修复宏 (Fast Reference Repair)
 
-> **SolidWorks 零件标准化工作流的一环**——选择一个工程文件夹，递归扫描所有工程图，不加载模型图形直接修改文件头索引，批量修复断裂的模型引用。
+> **解决问题：批量修复solidworks文件，更改名称后工程图与3d图纸的链接断裂。。
 >
 > 如需批量填写自定义属性，请见 [sw-property-updater-batch](https://github.com/mdmodule/sw-property-updater-batch)。
 
