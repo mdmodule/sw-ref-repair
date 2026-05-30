@@ -1,8 +1,8 @@
 # SolidWorks 工程图引用极速修复宏 (Fast Reference Repair)
 
-> **解决问题：批量修复solidworks文件，更改名称后工程图与3d图纸的链接断裂。。
+> **解决问题：批量修复solidworks文件，更改名称后工程图与3d图纸的链接断裂。
 >
-> 如需批量填写自定义属性，请见 [sw-property-updater-batch](https://github.com/mdmodule/sw-property-updater-batch)。
+
 
 ![概览](images/overview.png)
 
